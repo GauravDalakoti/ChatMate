@@ -12,7 +12,7 @@
 
 ---
 
-🚀 **Live Demo:** [https://your-live-link.com](https://chat-mate-phi.vercel.app)
+🚀 **Live Demo:** [https://chat-mate-phi.vercel.app](https://chat-mate-phi.vercel.app)
 
 ---
 
