@@ -352,7 +352,7 @@ export default function CustomerSupportInbox() {
 
         {/* Mobile AI Copilot - Bottom sheet */}
         <button 
-          className="fixed bottom-4 right-4 lg:hidden bg-black text-white p-3 rounded-full shadow-lg z-50"
+          className="fixed bottom-10 right-4 lg:hidden bg-black text-white p-3 rounded-full shadow-lg z-50"
           onClick={() => setMobileViewMode(mobileViewMode === 'sidebar' ? 'conversation' : 'sidebar')}
         >
           <Bot size={24} />
